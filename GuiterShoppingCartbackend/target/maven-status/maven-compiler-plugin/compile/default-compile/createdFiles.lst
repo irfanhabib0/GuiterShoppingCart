@@ -1,0 +1,10 @@
+com\niit\GuiterShoppingCartbackend\dao\ProductDao.class
+com\niit\GuiterShoppingCartbackend\DaoImpl\SupplierDaoImpl.class
+com\niit\GuiterShoppingCartbackend\model\Supplier.class
+com\niit\GuiterShoppingCartbackend\dao\UserDao.class
+com\niit\GuiterShoppingCartbackend\DaoImpl\ProductDaoImpl.class
+com\niit\GuiterShoppingCartbackend\model\User.class
+com\niit\GuiterShoppingCartbackend\DaoImpl\UserDaoImpl.class
+com\niit\GuiterShoppingCartbackend\model\Product.class
+com\niit\GuiterShoppingCartbackend\dao\SupplierDao.class
+com\niit\GuiterShoppingCartbackend\config\applicatoncontextconfig.class
